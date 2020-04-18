@@ -1,0 +1,415 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Lập trình cuộc sống - Chỉ là blog của một thằng coder</title>
+    <link rel="icon" type="image/x-icon" href="https://laptrinhcuocsong.com/favicon.ico">
+    <meta content='index, follow' name='robots'/>
+    <meta name="theme-color" content="#1a344f" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+    <link href="//fonts.googleapis.com/css?family=Roboto:300,400,700&subset=vietnamese" rel="stylesheet">
+    
+    <meta id="metaDescription" name="description" content="Lập trình cuộc sống, blog  về kỹ thuật, rèn luyện kỹ năng và chia sẻ  kinh nghiệm phát triển bản thân dành cho tất cả lập trình viên">
+    <meta property="og:description" content="Lập trình cuộc sống, blog  về kỹ thuật, rèn luyện kỹ năng và chia sẻ  kinh nghiệm phát triển bản thân dành cho tất cả lập trình viên" />
+    <meta property="og:type" content="website" /> 
+    
+    
+    
+    <meta property="og:url" content="https://laptrinhcuocsong.com/" />
+    
+
+    
+    <meta property='og:image' content='https://laptrinhcuocsong.com/images/programming-thumb.png' />
+    <meta property="og:image:width" content="250" />
+    <meta property="og:image:height" content="250" />
+    
+    <meta property="og:image:type" content="image/jpeg" /> 
+
+
+    <link rel='stylesheet' async defer type='text/css' href='https://laptrinhcuocsong.com/style.css'>
+    <link rel="alternate" type="application/rss+xml" title="Lập trình cuộc sống - Chỉ là blog của một thằng coder" href="https://laptrinhcuocsong.com/feed.xml" />
+    <meta property="fb:app_id" content="299675953750632"/>
+    <meta property="fb:admins" content="100008271487366"/>
+    <link href="https://plus.google.com/104574678671842857033" rel="author" />   
+    <link href="https://plus.google.com/104574678671842857033" rel="publisher" />
+    <meta property="fb:pages" content="367752623589322" />
+    <meta http-equiv="REFRESH" content="1800" />
+    <link rel="manifest" href="/manifest.json" />
+    <script data-ad-client="ca-pub-7192675112301972" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body>
+<header id="header">
+    <div id="logo">
+        <h1><a href="https://laptrinhcuocsong.com">Lập trình cuộc sống</a></h1>
+    </div>
+    <ul>
+        <li><a href="https://laptrinhcuocsong.com">Trang chủ</a></li>
+        <li><a href="https://laptrinhcuocsong.com/khoa-hoc-full-stack-web-developer.html">Khóa học</a></li>
+        <li><a href="https://laptrinhcuocsong.com/bai-viet-hay.html">Bài viết hay</a></li>
+        <li><a href="https://laptrinhcuocsong.com/gioi-thieu.html">Tác giả</a></li>
+        <li><a target="_blank" href="https://www.facebook.com/hoilaptrinhviennhandan/" rel="noopener">Fan page</a></li>
+        <li><a target="_blank" href="https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1" rel="noopener">Youtube</a></li>
+    </ul>
+    <div class="clear"></div>
+</header>
+
+<div id="jumbotron">
+	<h1><a href="https://laptrinhcuocsong.com">Lập trình cuộc sống</a></h1>
+	<h2>Chỉ là blog của một thằng coder</h2>
+	<nav id="categories">
+		<ul>
+			<li><a href="https://laptrinhcuocsong.com/video.html">Video trên youtube</a></li>
+			<li><a href="https://laptrinhcuocsong.com/chuyen-nghe-nghiep.html">Chuyện nghề nghiệp</a></li>
+			<li><a href="https://laptrinhcuocsong.com/chuyen-lap-trinh.html">Chuyện lập trình</a></li>
+			<li><a href="https://laptrinhcuocsong.com/chuyen-ben-le.html">Chuyện bên lề</a></li>
+			<li><a href="https://laptrinhcuocsong.com/chuyen-cuoc-song.html">Chuyện cuộc sống</a></li>
+			<li><a href="https://laptrinhcuocsong.com/linux-ubuntu.html">Linux - ubuntu</a></li>
+		</ul>
+	</nav>
+</div>
+
+<section id="content">
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/dung-laptop-hay-may-tinh-de-ban.html" title="Thay vì dùng laptop, tôi dùng máy bàn" >Thay vì dùng laptop, tôi dùng máy bàn</a></h1>
+  
+  <a href="/dung-laptop-hay-may-tinh-de-ban.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/may-tinh.png" title="Thay vì dùng laptop, tôi dùng máy bàn" alt="Thay vì dùng laptop, tôi dùng máy bàn" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Tôi đã chuyển công việc chính từ laptop sang máy bàn được 2 năm, đã có người đưa ra đủ lý do vì sao nên dùng laptop, nhưng tôi vẫn thấy happy với quyết định của mình.
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/lo-trinh-hoc-fullstack-web-developer-php.html" title="Lộ trình học fullstack web developer với php" >Lộ trình học fullstack web developer với php</a></h1>
+  
+  <a href="/lo-trinh-hoc-fullstack-web-developer-php.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/lap-trinh-vien-thumb.jpg" title="Lộ trình học fullstack web developer với php" alt="Lộ trình học fullstack web developer với php" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Trong bài viết này chúng ta sẽ tổng hợp tất tần tật những thứ chúng ta sẽ phải học để trở thành fullstack web dev với ngôn ngữ php
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/dan-it-doc-bao-cong-nghe-qua-nhieu.html" title="Chúng ta đang đọc báo công nghệ quá nhiều" >Chúng ta đang đọc báo công nghệ quá nhiều</a></h1>
+  
+  <a href="/dan-it-doc-bao-cong-nghe-qua-nhieu.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/focus.png" title="Chúng ta đang đọc báo công nghệ quá nhiều" alt="Chúng ta đang đọc báo công nghệ quá nhiều" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Thói quen đọc, thoạt đầu tưởng như rất có ích, đọc là cách để tiếp thu kiến thức, tiếp thu cái mới một cách dễ dàng ít tốn công sức nhất. Nhưng cái gì nên đọc và cái gì không nên đọc? Chúng ta đang sống trong một thế giới mà thông tin tạp nham, vàng cũng có mà cám cũng có. Một vấn đề mà hầu hết chúng ta đều gặp phải, đó là đọc báo tin tức công nghệ quá nhiều.
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/cach-lam-youtube-vlog-cua-minh.html" title="Cách làm youtube vlog của mình" >Cách làm youtube vlog của mình</a></h1>
+  
+  <a href="/cach-lam-youtube-vlog-cua-minh.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/cach-lam-youtube-vlog.jpg" title="Cách làm youtube vlog của mình" alt="Cách làm youtube vlog của mình" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Cách mình làm youtube dạng vlog, các thiết bị và phần mềm mà mình sử dụng để quay, chỉnh sửa video, live stream trên kênh youtube. Đây là cách tôi thực hiện những vlog của mình trên kênh Lập Trình Viên TV
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/mat-fanpage-va-loi-ban-hacker-la-gi.html" title="Mất fanpage và lời bàn &quot;hacker là gì&quot;?" >Mất fanpage và lời bàn &quot;hacker là gì&quot;?</a></h1>
+  
+  <a href="/mat-fanpage-va-loi-ban-hacker-la-gi.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/hacker.png" title="Mất fanpage và lời bàn &quot;hacker là gì&quot;?" alt="Mất fanpage và lời bàn &quot;hacker là gì&quot;?" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Ngày 04/08/2019 Fanpage chính thức của Lập Trình Cuộc Sống Chấm Com đã mất quyền kiểm soát. Đây là fanpage có tuổi đời 02 năm với trên 13 nghìn lượt thích và theo dõi.
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/raspberry-pi-orange-pi-la-gi-tai-sao-dev-can-mot-cai-de-nghich.html" title="Raspberry Pi, Orange Pi là gì và tại sao dev nên có một cái để nghịch?" >Raspberry Pi, Orange Pi là gì và tại sao dev nên có một cái để nghịch?</a></h1>
+  
+  <a href="/raspberry-pi-orange-pi-la-gi-tai-sao-dev-can-mot-cai-de-nghich.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/raspberry-pi-thumb.jpg" title="Raspberry Pi, Orange Pi là gì và tại sao dev nên có một cái để nghịch?" alt="Raspberry Pi, Orange Pi là gì và tại sao dev nên có một cái để nghịch?" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Raspberry Pi, Orange Pi là một dạng máy tính nhỏ gọn chỉ bằng lòng bàn tay, rẻ và tốn ít năng lượng. Một thiết bị rất đáng để tìm hiểu cho lập trình viên với nhiều ứng dụng hữu ích.
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/thuc-tap-it-la-lam-gi.html" title="Thực tập IT là làm gì? Có nên nhận lương hay không? Chuẩn bị gì cho kỳ thực tập?" >Thực tập IT là làm gì? Có nên nhận lương hay không? Chuẩn bị gì cho kỳ thực tập?</a></h1>
+  
+  <a href="/thuc-tap-it-la-lam-gi.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/tra-loi-cau-hoi-thumb.png" title="Thực tập IT là làm gì? Có nên nhận lương hay không? Chuẩn bị gì cho kỳ thực tập?" alt="Thực tập IT là làm gì? Có nên nhận lương hay không? Chuẩn bị gì cho kỳ thực tập?" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Thực tập là giai đoạn cực kỳ quan trọng với các bạn sinh viên, vậy cần chuẩn bị gì để có kỳ thực tập tốt?
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/lap-trinh-la-lam-gi.html" title="Thế chốt lại, lập trình là làm cái gì?" >Thế chốt lại, lập trình là làm cái gì?</a></h1>
+  
+  <a href="/lap-trinh-la-lam-gi.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/ngon-ngu-lap-trinh.png" title="Thế chốt lại, lập trình là làm cái gì?" alt="Thế chốt lại, lập trình là làm cái gì?" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Chúng ta học bao nhiêu ngôn ngữ, công nghệ, những thứ quá cao siêu, để rồi quên đi mục đích ban đầu, Ngày xưa chúng ta đã học lập trình để làm cái gì?
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/thuc-trang-hoc-lap-trinh-cua-cac-thanh-nien-hien-nay.html" title="Thực trạng học lập trình của các thanh niên hiện nay =))" >Thực trạng học lập trình của các thanh niên hiện nay =))</a></h1>
+  
+  <a href="/thuc-trang-hoc-lap-trinh-cua-cac-thanh-nien-hien-nay.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/thumb-lap-trinh-vien-met-moi.png" title="Thực trạng học lập trình của các thanh niên hiện nay =))" alt="Thực trạng học lập trình của các thanh niên hiện nay =))" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Vấn đề học lập trình thường hay gặp phải đó là học ở quá nhiều nơi, chưa xác định được mảng cần học và chủ yếu là tự học nên vẫn còn nhiều hạn chế
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/apache-tren-centos-khong-ghi-duoc-file-da-chmod-777.html" title="Apache trên centos không có quyền ghi file, dù đã chmod 777" >Apache trên centos không có quyền ghi file, dù đã chmod 777</a></h1>
+  
+  <a href="/apache-tren-centos-khong-ghi-duoc-file-da-chmod-777.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/thumbnail_default.png" alt="Apache trên centos không có quyền ghi file, dù đã chmod 777" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    SELinux (Security-Enhanced Linux) dùng để khóa điều khiển truy cập vào các ứng dụng, tăng bảo mật, nhưng cũng có một vài điều gây khó chịu cho người sử dụng như việc gây chậm cho hệ thống hay khiến cho một vài ứng dụng trở nên khó cài đặt.
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/3-viec-lap-trinh-vien-can-lam-moi-ngay.html" title="3 việc lập trình viên cần làm mỗi ngày" >3 việc lập trình viên cần làm mỗi ngày</a></h1>
+  
+  <a href="/3-viec-lap-trinh-vien-can-lam-moi-ngay.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/work.png" title="3 việc lập trình viên cần làm mỗi ngày" alt="3 việc lập trình viên cần làm mỗi ngày" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Tôi tin rằng sự thành công của một người trong tương lai phụ thuộc vào những việc mà hàng ngày anh ta làm. Tôi thấy có người rảnh rỗi xem phim lướt facebook và băn khoăn làm thế nào để trở thành developer giỏi. Và cũng thấy những người suốt ngày bận bịu làm hết việc này đến việc khác nhưng vẫn không đi đến đâu.
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/luong-nhan-vien-it-lap-trinh-vien.html" title="Lương nhân viên IT, lập trình viên có cao không?" >Lương nhân viên IT, lập trình viên có cao không?</a></h1>
+  
+  <a href="/luong-nhan-vien-it-lap-trinh-vien.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/web-developer.png" title="Lương nhân viên IT, lập trình viên có cao không?" alt="Lương nhân viên IT, lập trình viên có cao không?" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Trong thời kỳ cách mạng công nghệ 4.0 lên ngôi, vai trò của công nghệ thông tin cũng ngày càng trở nên quan trọng hơn bao giờ hết. Nguồn cung nhân sự cho ngành IT đang ngày càng khan hiếm nên hiện nay có rất nhiều công ty đang có nhu cầu tuyển dụng cho vị trí này với chế độ đãi ngộ hấp dẫn
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/viet-cho-sinh-vien-it.html" title="Viết cho sinh viên IT" >Viết cho sinh viên IT</a></h1>
+  
+  <a href="/viet-cho-sinh-vien-it.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/web-developer.png" title="Viết cho sinh viên IT" alt="Viết cho sinh viên IT" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    Rồi ngày mai cuộc sống sẽ cuốn các bạn đi, code của các bạn sẽ không còn là những dòng code đầy đam mê như trước nữa, mà code của bạn phải làm ra tiền. Tôi nói thật đấy, bạn sẽ phải trả tiền phòng, tiền điện nước, internet, code của bạn trước khi làm thỏa mãn đam mê, thì trước hết nó phải đáp ứng được tầng thấp nhất của tháp nhu cầu Maslow cái đã.
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/review-cac-it-blogger-khet-tieng-o-viet-nam.html" title="Review các IT blogger khét tiếng ở Việt Nam" >Review các IT blogger khét tiếng ở Việt Nam</a></h1>
+  
+  <a href="/review-cac-it-blogger-khet-tieng-o-viet-nam.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/blog-thumb.png" title="Review các IT blogger khét tiếng ở Việt Nam" alt="Review các IT blogger khét tiếng ở Việt Nam" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    <p>Cũng như các bạn, ngoài code với FAP ra thì thời gian rảnh mình cũng hay la cà mấy blog IT, hóng hớt xem thiên hạ đang code như thế nào, bàn tán về công nghệ gì. Trong bài viết này mình sẽ giới thiệu các blog IT <del>nổi tiếng</del> khét tiếng ở Việt Nam mà mình thường xuyên ghé thăm.</p>
+
+
+  </div>
+  <div class="clear"></div>
+</article>
+
+<article class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name"><a itemprop="url" href="https://laptrinhcuocsong.com/lam-app-android-bang-html-css-javascript-thuan-phan-1.html" title="Làm app android chỉ bằng html, css và javascript thuần, phần một - Viết code javascript" >Làm app android chỉ bằng html, css và javascript thuần, phần một - Viết code javascript</a></h1>
+  
+  <a href="/lam-app-android-bang-html-css-javascript-thuan-phan-1.html"><img itemprop="image" src="https://laptrinhcuocsong.com/images/mobile-app.png" title="Làm app android chỉ bằng html, css và javascript thuần, phần một - Viết code javascript" alt="Làm app android chỉ bằng html, css và javascript thuần, phần một - Viết code javascript" class="post_thumbnail"></a>
+  
+  <div class="excerpt" itemprop="description">
+    <p>Trong sê-ri này mình sẽ cùng các bạn xây dựng một ứng dụng android chỉ bằng html, css và javascript. Hiện nay có rất nhiều framework javascript giúp phát triển ứng dụng nhanh hơn, tuy nhiên chúng ta sẽ cùng trở lại với javascript thuần, bắt đầu từ con số không cho đến khi app của chúng ta lên Play Store.</p>
+
+
+  </div>
+  <div class="clear"></div>
+</article>
+
+
+<div class="pagination">
+  
+
+  
+    
+      <em>1</em>
+    
+  
+    
+      <a href="/page2">2</a>
+    
+  
+    
+      <a href="/page3">3</a>
+    
+  
+    
+      <a href="/page4">4</a>
+    
+  
+    
+      <a href="/page5">5</a>
+    
+  
+    
+      <a href="/page6">6</a>
+    
+  
+
+  
+    <a href="/page2">&raquo;</a>
+  
+  <div class="clear"></div>
+</div>
+
+
+</section><!-- end #content -->
+<div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7192675112301972",
+          enable_page_level_ads: true
+     });
+</script>
+</div>
+<div id="footer-outer">
+	<footer id="footer" class="container">
+	<div class="box">
+		<h4>Theo dõi blog</h4>
+		<ul>
+			<li><a href="https://laptrinhcuocsong.com">Trang chủ</a></li>
+			<li><a target="_blank" href="https://www.facebook.com/hoilaptrinhviennhandan/" rel="noopener">Chúng tôi trên Facebook</a></li>
+			<li><a target="_blank" href="https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1" rel="noopener">Chúng tôi trên Youtube</a></li>
+			<li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSelxVBIAXxrtOgyfJZ9GXXnbKKK6r5xbJKxodNPUoElNnsBCg/viewform" rel="noopener">Yêu cầu viết bài</a></li>
+			
+	  	</ul>
+	</div>
+	<div class="box">
+		<h4>Link hữu ích</h4>
+		<ul>
+			<li><a href="https://laptrinhcuocsong.com/gioi-thieu.html">Giới thiệu blog</a></li>
+			<li><a href="https://laptrinhcuocsong.com/bai-viet-hay.html">Bài viết hay</a></li>
+			<li><a href="https://laptrinhcuocsong.com/policies.html">Điều khoản</a></li>
+			<li><a target="_blank" href="http://buivannguyen.com" rel="noopener">Website Tác giả</a></li>
+	  	</ul>
+	</div>
+	<div class="box">
+		<h4>Blog bạn bè</h4>
+		<ul>
+			<li><a target="_blank" href="http://toidicodedao.com" rel="noopener">Tôi đi code dạo</a></li>
+			<li><a target="_blank" href="https://niviki.com" rel="noopener">Niviki.com</a></li>
+			<li><a target="_blank" href="http://www.giaosucan.com" rel="noopener">Giaosucan's Blog</a></li>
+			<li><a target="_blank" href="https://jaredchu.com/" rel="noopener">The Lazy Dev</a></li>
+	  	</ul>
+	</div>
+	<div class="box">
+		<h4>Kết nối</h4>
+		<ul>
+			<li><a target="_blank" href="http://buivannguyen.com" rel="noopener">Website Tác giả</a></li>
+			<li><a target="_blank" href="https://twitter.com/bui_van_nguyen" rel="noopener">Tôi trên Twitter</a></li>
+			<li><a target="_blank" href="http://instagram.com/bui_van_nguyen" rel="noopener">Tôi trên Instagram</a></li>
+			<li><a target="_blank" href="http://www.gocnhinphang.com" rel="noopener">Góc nhìn phẳng</a></li>
+	  	</ul>
+	</div>
+	<div class="clear"></div>
+	<div class="tag_cloud">
+		<h4>Tags</h4>
+		
+		<a href="https://laptrinhcuocsong.com/tags/hacking-co-ban" target="_blank">Hacking cơ bản</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/hoc-hack-co-ban" target="_blank">Học hack cơ bản</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/hoc-ubuntu" target="_blank">Học ubuntu</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/lap-trinh-game-bang-javascript" target="_blank">Lập trình game javascript</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/lap-trinh-javascript" target="_blank">Lập trình javascript</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/lap-trinh-mot-game-don-gian" target="_blank">Lập trình game đơn giản</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/tu-hoc-linux" target="_blank">Tự học linux</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/jquery" target="_blank">Jquery</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/kinh-nghiem-phong-van-xin-viec-cntt" target="_blank">Kinh nghiệm phỏng vấn</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/lap-trinh-php" target="_blank">Lập trình php</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/lap-trinh-web" target="_blank">Lập trình web</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/live-stream-lap-trinh" target="_blank">Live stream lập trình</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/cach-tro-thanh-hacker-mu-den" target="_blank">Cách trở thành hacker mũ đen</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/day-lam-hacker-tu-a-z" target="_blank">Dạy làm hacker từ A đến Z</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/doi-song-lap-trinh-vien" target="_blank">Đời sống lập trình viên</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/nganh-lap-trinh-vien" target="_blank">Ngành lập trình viên</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/cach-lap-trinh-game" target="_blank">Cách lập trình game</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/bi-quyet-hoc-lap-trinh" target="_blank">Bí quyết học lập trình</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/nhung-dieu-co-ban-ve-lap-trinh" target="_blank">Những điều cơ bản về lập trình</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/lap-trinh-vien" target="_blank">Lập trình viên</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/nghe-lap-trinh-vien-hien-nay" target="_blank">Nghề lập trình viên hiện nay</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi" target="_blank">Cách học lập trình cho người chưa biết gì</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/hoc-lap-trinh-nhu-the-nao" target="_blank">học lập trình như thế nào</a>,
+	  	
+		<a href="https://laptrinhcuocsong.com/tags/raspberry-pi" target="_blank">Raspberry pi, orange pi</a>,
+	  	
+	  </div>
+	</footer>
+</div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.0&appId=299675953750632&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33082243-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script src="https://laptrinhcuocsong.com/script.js"></script>
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "a06c6a45-e9d8-4ae0-8745-a72b98dbe629",
+    });
+  });
+</script>
+</body>
+</html>
+
